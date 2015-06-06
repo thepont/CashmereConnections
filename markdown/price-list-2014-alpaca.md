@@ -37,4 +37,4 @@ Suri
 | Pieces & short fibre	| 					          |			           	| $0.90			      | $0.61
 | Overgrown				       |					            |				           | $0.61			      | $0.61
 
-*¹__Any fibre with heavy VM will be valued at 50% of the main line value.__
+*¹_Any fibre with heavy VM will be valued at 50% of the main line value._
