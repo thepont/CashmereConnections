@@ -13,28 +13,28 @@ In order to be accepted into spinning lines, the entire fleece must have a minim
 
 ####Huacaya
 
-| Fibre Type        	| Micron (μm)      | Length (mm)   | White ($AUD) 	| Other Colour ($AUD)
-| -------------     	|:-------------:	| -----:        |--            	|
-| Fine Alpaca      		| 24 and under	    | 80 - 120      | $7.26        	| $7.26
-| Medium				| 24 - 26 			| 80 - 120 		| $4.84			| $3.63
-| Strong				| 26 - 30 um		| 80 - 120mm	| $3.63			| $3.03
-| Ex Strong				| 30 - 34 um		| 80 - 120mm	| $1.21			| $1.21
-| Pieces & short fibre	|					|				| $0.90			| $0.61
-| Fine pieces *¹		|					| 				| $2.05			| $0.61
-| Overgrown				|					|				| $0.61			| $0.61
+ Fibre Type        	| Micron (μm)      | Length (mm)   | White ($AUD) | Other Colour ($AUD)
+ ------------- |:-------------:| -----:| --- 	| ---
+ Fine Alpaca      		| 24 and under	    | 80 - 120      | $7.26        	| $7.26
+ Medium				         | 24 - 26          | 80 - 120 		   | $4.84			      | $3.63
+ Strong				         | 26 - 30   		     | 80 - 12       | $3.63         | $3.03
+ Ex Strong				      | 30 - 34   		     | 80 - 120mm	   | $1.21			      | $1.21
+ Pieces & short fibre	|					           |				           | $0.90			      | $0.61
+ Fine pieces *¹		   |					             | 				          | $2.05			      | $0.61
+ Overgrown				      |					             |				           | $0.61			      | $0.61
 
-*¹ _To be eligible for classing into this line, fleece must be consigned so it is easy to separate. Plastic bags or paper between fleeces are two acceptable consignment methods._
+*¹ _To be eligible for classing into this line, fleece must be consigned so it is easy to separate. Plastic bags or paper between fleeces are two acceptable consignment methods._  
 *² _Any fibre with heavy VM will be valued at 50% of the main line value._
 
-Suri
+####Suri
 
 | Fibre Type        	| Micron (μm)      | Length (mm)   | White ($AUD) 	| Other Colour ($AUD)
-| -------------     	|:-------------:	| -----:        |--            	|
-| Fine Alpaca			| 24 and under		| 75 - 120mm	| $7.26			| $7.26
-| Medium				| 24 - 26 um		| 75 - 120mm	| $4.84			| $3.63
-| Strong				| 26 - 30 um		| 75 - 120mm	| $3.63			| $3.03
-| Ex Strong	 			| 30 - 34 um		| 75 - 120mm	| $1.21			| $1.21
-| Pieces & short fibre	| 					|				| $0.90			| $0.61
-| Overgrown				|					|				| $0.61			| $0.61
+------------- |:-------------:| -----:| --- 	| ---
+| Fine Alpaca			     | 24 and under		   | 75 - 120	     | $7.26			      | $7.26
+| Medium				         | 24 - 26 		       | 75 - 120     	| $4.84			      | $3.63
+| Strong				         | 26 - 30 		       | 75 - 120mm	   | $3.63			      | $3.03
+| Ex Strong	 			     | 30 - 34 		       | 75 - 120mm	   | $1.21			      | $1.21
+| Pieces & short fibre	| 					          |			           	| $0.90			      | $0.61
+| Overgrown				       |					            |				           | $0.61			      | $0.61
 
-*¹__Any fibre with heavy VM will be valued at 50% of the main line value.__
+*¹_Any fibre with heavy VM will be valued at 50% of the main line value._
