@@ -14,7 +14,7 @@ In order to be accepted into spinning lines, the entire fleece must have a minim
 ####Huacaya
 
  Fibre Type        	| Micron (μm)      | Length (mm)   | White ($AUD) | Other Colour ($AUD)
- -------------     	|:-------------:	| -----:        |--            	|
+ ------------- |:-------------:| -----:| --- 	| ---
  Fine Alpaca      		| 24 and under	  | 80 - 120      | $7.26        	| $7.26
  Medium				      | 24 - 26         | 80 - 120 		  | $4.84			    | $3.63
  Strong				| 26 - 30 um		| 80 - 120mm	| $3.63			| $3.03
