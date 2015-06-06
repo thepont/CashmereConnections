@@ -1,0 +1,9 @@
+{
+  "name": "cashmere-connections-dynamic",
+  "version": "0.0.1",
+  "description": "Cashmere Connections Dynamic Content",
+  "main": "app.js",
+  "dependencies": {
+    "elephas": "^0.2.5"
+  }
+}

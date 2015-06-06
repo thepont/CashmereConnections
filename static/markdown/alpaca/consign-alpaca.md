@@ -1,13 +1,14 @@
-
-#Alpaca
-
-##How to Consign Fibre
+---
+layout: page
+title: Alpaca Consignment
+permalink: /alpaca/consignment/
+---
 
 _It is important to consign fibre as soon possible to avoid the risk of contamination by moths and other pests._
 
 If the clip is going to be consigned within 12 months, saddles may be packaged in light weight bin liners. Skirtings (belly, chest, legs) may be placed in a light weight bin liner or freezer bag. It is helpful if the bag containing the skirtings is then placed inside the same bag as the saddle. If you intend to press the fleeces, fold the opening over and place the bag in wool pack with fold down. If the bag is placed directly into a wool pack which is to be pressed, there is no need to tie the bag.
 
-###Materials needed
+##Materials needed
 
 Wool bales and bale clips are available from rural merchandising stores such as Landmark, CRT and Elders. Plastic bin liners / garbage bags are available for your local supermarket. Select a bin liner size that will confortably hold your fleeces. A light grade is acceptable.
 How to prepare and consign your clip.
@@ -40,7 +41,7 @@ Click on the form button (on the left hand side of this page), download the cons
 15. Deliver your consignment to the transport depot.
 16. Post a copy of your consignment note to Cashmere Connections. If you have not already supplied us with a RTIA you will need to download and complete this form also. Include this with your postal consignment note.
 
-###Joint Consignment
+##Joint Consignment
 
 Each grower needs to fill out their own consignment notes (three copies), recipient created invoice agreement, and if GST circumstances require, a copy of the government's "Statement by Supplier" form.
 

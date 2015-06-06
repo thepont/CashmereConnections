@@ -1,0 +1,31 @@
+- name: Fine
+  micron: 24 and under
+  length: 75 - 120
+  white-price: $7.26
+  colour-price: $7.26
+
+- name: Medium
+  micron: 24 - 26
+  length: 75 - 120
+  white-price: $4.84
+  colour-price: $3.63
+
+- name: Strong
+  micron: 26 - 30
+  length: 75 - 120
+  white-price: $3.63
+  colour-price: $3.03
+
+- name: Ex Strong
+  micron: 30 - 34
+  length: 75 - 120
+  white-price: $1.21
+  colour-price: $1.21
+
+- name: Pieces & short fibre
+  white-price: $0.90
+  colour-price: $0.61
+
+- name: Overgrown
+  white-price: $0.61
+  colour-price: $0.61

@@ -1,10 +1,14 @@
-#Depots
+---
+layout: page
+title: Deports
+permalink: /deports/
+---
 
 If the bale weights more than 75kg, Cashmere Connections will pay for the transportation of fibre from designated transport depots.
 
 Spargo Transport handle Cashmere Connections' transport logistics. Spargo Transport accept delivery at the transport depots listed below. Please book the consignment in with Graeme Spargo Transport by phone, fax or email before dropping the goods off, otherwise the goods may sit for a while. Remember to send a copy of your consignment note to Cashmere Connections by mail, fax or email.
 
-If delivering your fleeces to Cashmere Connections directly please make sure also deliver your completed documentation. That is your consignment note, your RTIA agreement and a Statement By Supplier form if you are NOT registered for GST. This paperwork is available for down load from this website under forms in both the Alpaca and Cashmere sections of the website. It's very difficult to pay for fibre if we don't know who owns it.
+If delivering your fleeces to Cashmere Connections directly please make sure also deliver your completed documentation. That is your consignment note, your RTIA agreement and a Statement By Supplier form if you are _not_ registered for GST. This paperwork is available for down load from this website under forms in both the Alpaca and Cashmere sections of the website. It's very difficult to pay for fibre if we don't know who owns it.
 
 Spargo Transport  
 Email:	sales@spargotransport.com.au  
@@ -25,6 +29,7 @@ Victoria. 3340.
 If no listed depot is suitable send an email to: anita.kane@mail.com, Spargo Transport may be able to suggest a closer depot.
 
 ##New South Wales
+
 ###Northern Region
 
 Rod Pilon Transport. c/- Woods Transport,  
@@ -61,6 +66,7 @@ Narrandera.
 02 6959 9899
 
 ##Queensland	
+
 ###All Regions	
 __For a drop of point near you contact:__	
 
@@ -70,6 +76,7 @@ Rocklea.
 Ph: 07 327 53664
 
 ##South Australia	
+
 ###Eastern Region	
 Penta Transport,  
 30 Bywaters Road,  
@@ -88,15 +95,17 @@ Green Fields.
 Ph: 08 8182 3388
 
 ##Tasmania	
-###All Regions	
+
+###All Regions
 __For a drop of point near you contact:__
 
 Highland Haulage,  
 92 Goderich Street,  	
-Deloraine.	
+Deloraine.  
 Ph: 03 6362 2347
 
 ##Victoria	
+
 ###Eastern Region	
 Willaton Transport,  	
 537 Princess Dr,  
@@ -115,8 +124,8 @@ Rutherglen.
 Ph: 02 6033 1727
 
 Francis Transport,  
-Tone Road,  	
-Wangaratta.  	
+Tone Road,  
+Wangaratta.  
 Ph: 03 5721 7566
 
 ###Western Region	
@@ -126,6 +135,7 @@ Horsham.
 Ph: 03 5382 4344
 
 ##Western Australia	
+
 ###All Regions	
 _For a drop of point near you contact:_
 
