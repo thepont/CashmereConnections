@@ -4,7 +4,7 @@
 
 Some lines are still being stockpiled and Cashmere Connections are still investing in market development both here in Australia and more recently overseas.
 
-All prices are AUD$ per kilogram greasy fibre including GST; delivered to Cashmere Connections or to designated depots. There are no classing charges.  
+All prices are AUD$ per kilogram greasy fibre including GST; delivered to Cashmere Connections or to [designated depots][depots_page]. There are no classing charges.  
 However any bale weighing less than 75kg is NOT eligible for free transport to Cashmere Connections' Factory from the designated transport depot. The cost of bales weighing less than 75kg must be worn by the producer.
 
 Please consign your bellies, necks and cria fleeces. These fleece types have value.You will be paid according to the line into which they are inter-lotted.
@@ -38,3 +38,5 @@ In order to be accepted into spinning lines, the entire fleece must have a minim
 | Overgrown				       |					            |				           | $0.61			      | $0.61
 
 *¹_Any fibre with heavy VM will be valued at 50% of the main line value._
+
+[depots_page]:../depots.md
