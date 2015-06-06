@@ -26,7 +26,7 @@ In order to be accepted into spinning lines, the entire fleece must have a minim
 *¹ _To be eligible for classing into this line, fleece must be consigned so it is easy to separate. Plastic bags or paper between fleeces are two acceptable consignment methods._  
 *² _Any fibre with heavy VM will be valued at 50% of the main line value._
 
-Suri
+####Suri
 
 | Fibre Type        	| Micron (μm)      | Length (mm)   | White ($AUD) 	| Other Colour ($AUD)
 ------------- |:-------------:| -----:| --- 	| ---
