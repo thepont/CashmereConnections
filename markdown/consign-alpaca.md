@@ -1,3 +1,4 @@
+
 #Alpaca
 
 ##How to Consign Fibre
@@ -22,17 +23,19 @@ Click on the form button (on the left hand side of this page), download the cons
 8. Keep the third copy of the Consignment Note for your own records.
 9. Using a large black texta write Cashmere Connection's transport address on each bale.
 
-	* Cashmere Connections,<br/>
-	4 Osborne Street,<br/>
-	Bacchus Marsh,<br/>
-	Victoria, 3340.<br/>
+   Cashmere Connections,  
+	4 Osborne Street,  
+	Bacchus Marsh,  
+	Victoria, 3340.  
 
 10. Write your address and phone number on the bale/bales.
 11. Write the bale number and number of bales in the consignment on each bale; eg. bale 1 of 3, 2 of 3, 3 of 3.
 12. Consult the list of Australia wide transport depots to locate the depot closest to you.
 13. Contact Catherine (who is in charge of Logistics at Graeme Spargo Transport) to have your clip booked in for transport.
-	* Phone:	03 53 675265<br/>
-	  Email:	sales@spargotransport.com.au
+    
+    Phone:	03 53 675265  
+	Email:	sales@spargotransport.com.au
+
 14. Once you have booking confirmation you should contact your local transport depot to arrange a suitable drop off time.
 15. Deliver your consignment to the transport depot.
 16. Post a copy of your consignment note to Cashmere Connections. If you have not already supplied us with a RTIA you will need to download and complete this form also. Include this with your postal consignment note.
